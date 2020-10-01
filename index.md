@@ -1,8 +1,8 @@
-<h1 class="no_toc">Inholds liste</h1>
-* TOC
-{:toc}
+<h1>Inholds liste</h1>
 
-<h1 class="toc" style="font-size:40px;"> Instalering av skyss app Iphone </h1>
+<a href="#install"> Instalering av skyss app Iphone </a>
+
+<h1 id="install" style="font-size:40px;"> Instalering av skyss app Iphone </h1>
 <p style="font-size:30px;"> Du starter med å åpne app store </p>
 
 ![app store](https://cdn.discordapp.com/attachments/745215865175277628/761139134827200553/image0.png) 
@@ -23,7 +23,7 @@
 
 # Instalering av skyss app Android
 
-# Hvordan kjøpe billett
+# Hvordan kjøpe enkeltbillett
  <p style="font-size:30px;"> Du finner Skyss Billett på en av slidsene på telefonen din. Du drar til siden og finner Skyss Billett og trykker deg inn på den med fingeren </p>
 
 ![app på skjerm](https://media.discordapp.net/attachments/684445262877687899/761137793069744138/image0.png)
@@ -44,6 +44,14 @@
 
 ![Valg av kort for å betale](https://cdn.discordapp.com/attachments/684445262877687899/761137794679963658/image4.png)
 
-<p style="font-size:30px;"> Når du har valgt kortet så får du opp DU KJØPER NÅ. Det står hvor mye det koster og hvor mange billetter du har valgt. 
+<p style="font-size:30px;"> Når du har valgt kortet så får du opp DU KJØPER NÅ. Det står hvor mye det koster og hvor mange billetter du har valgt. Du trykker nå på KJØP på den røde / oransje knappen. </p>
+
+![siste steg av kjøp](https://cdn.discordapp.com/attachments/684445262877687899/761137795091660820/image5.png)
+
+# Hvordan kjøpe periodebillett
+
+
 
 # Hvordan bruke billett
+
+
