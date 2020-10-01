@@ -2,7 +2,7 @@
 * TOC
 {:toc}
 
-<h1 style="font-size:40px;"> Instalering av skyss app Iphone </h1>
+<h1 class="toc" style="font-size:40px;"> Instalering av skyss app Iphone </h1>
 <p style="font-size:30px;"> Du starter med å åpne app store </p>
 
 ![app store](https://cdn.discordapp.com/attachments/745215865175277628/761139134827200553/image0.png) 
