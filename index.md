@@ -8,15 +8,17 @@
 
 <a href="#Periodebillett"> Hvordan kjøpe Periodebillett </a>
 
+<a href="#Bruk"> Hvordan bruke billett </a>
+
 <h1 id="install" style="font-size:40px;"> Instalering av skyss app Iphone </h1>
 
 <p style="font-size:30px;"> Du starter med å åpne app store </p>
 
-![app store](https://cdn.discordapp.com/attachments/745215865175277628/761139134827200553/image0.png) 
+![app store](https://cdn.discordapp.com/attachments/745215865175277628/761154964554252298/image2.png) 
 
 <p style="font-size:30px;"> Når du har åpnet app store så trykker du på søk knappen nederst til høyre </p>
 
-![søk](https://cdn.discordapp.com/attachments/745215865175277628/761139134344462336/image0.png) 
+![søk](https://cdn.discordapp.com/attachments/745215865175277628/761154963934019584/image1.png) 
 
 <p style="font-size:30px;"> Trykk på det øverste søkefeltet og skriv skyss billett </p>
 
@@ -24,7 +26,7 @@
 
 <p style="font-size:30px;"> Trykk på den blå knappen og skriv inn passordet ditt til din apple id </p>
 
-![last ned](https://cdn.discordapp.com/attachments/745215865175277628/761139142817873930/image0.png) 
+![last ned](https://cdn.discordapp.com/attachments/745215865175277628/761154963564265472/image0.png) 
 
 
 
@@ -38,7 +40,7 @@
 
 <p style="font-size:30px;"> Leit etter Kjøp enkelbillett. Så trykker du på den </p>
 
-![Kjøp enkeltbillett](https://cdn.discordapp.com/attachments/684445262877687899/761137793547632630/image1.png)
+![Kjøp enkeltbillett](https://cdn.discordapp.com/attachments/684445262877687899/761137793547632640/image1.png)
 
 <p style="font-size:30px;"> Du trykker på der det står Voksen kr 39,00. etter du har trykket skal du få ett tall for hvor mange billetter du skal ha bedsiden av mannen på der du velger billett. Du trykker på - for å trekke tilbake billett / billettene. </p>
 
@@ -64,6 +66,28 @@
 
 <p style="font-size:30px;"> Når du har trykket deg inn på periodebillett vil du få flere valg over hvor lang billetten skal være. I dette tilfelle velger vi å vise med 180 dager billett. </p>
 
-# Hvordan bruke billett
+![Valg av periode](https://cdn.discordapp.com/attachments/684445262877687899/761149984719765525/image1.png)
 
+<p style="font-size:30px;"> Etter det velger du hva du er om du er Voksen elelr Student. I dette tilfellet velger vi Voksen. </p>
 
+![Betal med kredittkort](https://cdn.discordapp.com/attachments/684445262877687899/761149985789575168/image2.png)
+
+<p style="font-size:30px;"> Her velger du hvilke kort du skal betale med eller hvilket kort du har lagt til. </p>
+
+![Kort](https://cdn.discordapp.com/attachments/684445262877687899/761149986451881984/image3.png)
+
+<p style="font-size:30px;"> Til slutt så ser du hvor mange billetter du har og hvilke type og prisen du skal betale. Klikk på den røde / oransje knappen med Kjøp for å betale og få billetten. </p>
+
+![Kjøp](https://cdn.discordapp.com/attachments/684445262877687899/761149986830286868/image4.png)
+
+<h1 id="Bruk" style="font-size:40px;"> Hvordan bruke billett </h1>
+
+<p style="font-size:30px;"> Du må finne Skyss billett på mainscreenen på telefonen din. </p>
+
+![Finne appen](https://cdn.discordapp.com/attachments/684445262877687899/761153925793185792/image0.png)
+
+<p style="font-size:30px;"> Når du trykker på appen så komme rdu til en skjerm. Der etter skal du lese og finne Mine billetter. Det skal stå 1 aktiv fordi du har nettopp kjøpt billetten. </p>
+
+![Mine billetter](https://cdn.discordapp.com/attachments/684445262877687899/761153926446972938/image1.png)
+
+<p style="font-size:30px;"> På billetten som kommer opp så får du se all informasjonen. Hvor lenge du har igjen med den
