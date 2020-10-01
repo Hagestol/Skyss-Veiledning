@@ -1,8 +1,11 @@
 <h1>Inholds liste</h1>
 
 <a href="#install"> Instalering av skyss app Iphone </a>
+
 <a href="#install2"> Instalering av skyss app Android </a>
+
 <a href="#enkeltbillett"> Hvordan kjøpe enkeltbillett </a>
+
 <a href="#Periodebillett"> Hvordan kjøpe Periodebillett </a>
 
 <h1 id="install" style="font-size:40px;"> Instalering av skyss app Iphone </h1>
