@@ -1,6 +1,6 @@
-<h1>Inholds liste</h1>
+<h1>Innholds liste</h1>
 
-<a href="#install"> Instalering av skyss app Iphone </a>
+<a href="#install"> Installering av skyss app Iphone </a>
 
 <a href="#enkeltbillett"> Hvordan kjøpe enkeltbillett </a>
 
@@ -8,7 +8,7 @@
 
 <a href="#Bruk"> Hvordan bruke billett </a>
 
-<h1 id="install" style="font-size:40px;"> Instalering av skyss app Iphone </h1>
+<h1 id="install" style="font-size:40px;"> Installering av skyss app Iphone </h1>
 
 <p style="font-size:30px;"> Du starter med å åpne app store </p>
 
