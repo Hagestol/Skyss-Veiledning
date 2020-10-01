@@ -1,6 +1,9 @@
 <h1>Inholds liste</h1>
 
 <a href="#install"> Instalering av skyss app Iphone </a>
+<a href="#install2"> Instalering av skyss app Android </a>
+<a href="#enkeltbillett"> Hvordan kjøpe enkeltbillett </a>
+<a href="#Periodebillett"> Hvordan kjøpe Periodebillett </a>
 
 <h1 id="install" style="font-size:40px;"> Instalering av skyss app Iphone </h1>
 <p style="font-size:30px;"> Du starter med å åpne app store </p>
@@ -21,10 +24,11 @@
 
 
 
-# Instalering av skyss app Android
+<h1 id="install2" style="font-size:40px;"> Instalering av skyss app Android </h1>
 
-# Hvordan kjøpe enkeltbillett
- <p style="font-size:30px;"> Du finner Skyss Billett på en av slidsene på telefonen din. Du drar til siden og finner Skyss Billett og trykker deg inn på den med fingeren </p>
+<h1 id="enkeltbillett" style="font-size:40px;"> Hvordan kjøpe enkeltbillett </h1>
+
+<p style="font-size:30px;"> Du finner Skyss Billett på en av slidsene på telefonen din. Du drar til siden og finner Skyss Billett og trykker deg inn på den med fingeren </p>
 
 ![app på skjerm](https://media.discordapp.net/attachments/684445262877687899/761137793069744138/image0.png)
 
@@ -38,7 +42,7 @@
 
 <p style="font-size:30px;"> Helt nederst på skjermen skal det stå Betal med kredittkort øverst nede i den røde boksen. Under det Kjøp billett - kr 39,00. Du trykker bare på den røde boksen og etter det kommer neste steg. </p>
 
-![Kjøpe selve billetten](https://cdn.discordapp.com/attachments/684445262877687899/761137794365783074/image3.png)
+![Kjøpe selve billetten](https://cdn.discordapp.com/attachments/684445262877687899/761137794365784074/image3.png)
 
 <p style="font-size:30px;"> Velg kortet ditt om du har addet flere enn ett vil det se ut som dette og du velger kortholderen sitt navn for den som skal betale. </p>
 
@@ -48,7 +52,9 @@
 
 ![siste steg av kjøp](https://cdn.discordapp.com/attachments/684445262877687899/761137795091660820/image5.png)
 
-# Hvordan kjøpe periodebillett
+<h1 id="Periodebillett" style="font-size:40px;"> Hvordan kjøpe Periodebillett </h1>
+
+
 
 
 
