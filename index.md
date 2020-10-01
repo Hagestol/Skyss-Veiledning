@@ -90,4 +90,10 @@
 
 ![Mine billetter](https://cdn.discordapp.com/attachments/684445262877687899/761153926446972938/image1.png)
 
-<p style="font-size:30px;"> På billetten som kommer opp så får du se all informasjonen. Hvor lenge du har igjen med den
+<p style="font-size:30px;"> På billetten som kommer opp så får du se all informasjonen. Hvor lenge du har igjen med den. Du skal trykke hvor det er sirklet så skal du få opp en QR kode som skal scannes på kontroll. </p>
+
+![Inne på billetten](https://cdn.discordapp.com/attachments/684445262877687899/761153926883049492/image2.png)
+
+<p style="font-size:30px;"> Her er QR koden som du skal bruke i kontroll eller andre ting for å scanne den. </p>
+
+![QR-kode](https://cdn.discordapp.com/attachments/684445262877687899/761153927345340426/image3.png)
