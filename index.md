@@ -2,8 +2,6 @@
 
 <a href="#install"> Instalering av skyss app Iphone </a>
 
-<a href="#install2"> Instalering av skyss app Android </a>
-
 <a href="#enkeltbillett"> Hvordan kjøpe enkeltbillett </a>
 
 <a href="#Periodebillett"> Hvordan kjøpe Periodebillett </a>
@@ -27,10 +25,6 @@
 <p style="font-size:30px;"> Trykk på den blå knappen og skriv inn passordet ditt til din apple id </p>
 
 ![last ned](https://cdn.discordapp.com/attachments/745215865175277628/761154963564265472/image0.png) 
-
-
-
-<h1 id="install2" style="font-size:40px;"> Instalering av skyss app Android </h1>
 
 <h1 id="enkeltbillett" style="font-size:40px;"> Hvordan kjøpe enkeltbillett </h1>
 
