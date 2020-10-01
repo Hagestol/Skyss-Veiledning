@@ -4,18 +4,19 @@
 
 # Instalering av skyss app Iphone
 > Du starter med å åpne app store
-![app store](https://postimg.cc/3kFqGb6k)
+![app store](https://cdn.discordapp.com/attachments/745215865175277628/761139134827200553/image0.png)
 > Når du har åpnet app store så trykker du på søk knappen nederst til høyre
-![søk](https://postimg.cc/1ndRQzr1)
+![søk](https://cdn.discordapp.com/attachments/745215865175277628/761139134344462336/image0.png)
 > Trykk på det øverste søkefeltet og skriv skyss billett
-![skyss nedlastning](https://postimg.cc/628wYXJj)
+![skyss nedlastning](https://cdn.discordapp.com/attachments/745215865175277628/761139138526183444/image0.png)
 > Trykk på den blå knappen og skriv inn passordet ditt til din apple id
-![last ned](https://postimg.cc/rzCcjgvL)
+![last ned](https://cdn.discordapp.com/attachments/745215865175277628/761139142817873930/image0.png)
 
 
 
 # Instalering av skyss app Android
 
 # Hvordan kjøpe billett
-![test for faen](https://media.discordapp.net/attachments/684445262877687899/761137793069744138/image0.png)
+> Du finner Skyss Billett på en av slidsene på telefonen din. Du drar til siden og finner Skyss Billett og trykker deg inn på den med fingeren
+![]
 # Hvordan bruke billett
