@@ -58,9 +58,11 @@
 
 <h1 id="Periodebillett" style="font-size:40px;"> Hvordan kjøpe Periodebillett </h1>
 
+<p style="font-size:30px;"> Trykk på periodebillett </p>
 
+![trykk på periodebillett](https://cdn.discordapp.com/attachments/684445262877687899/761149984153403392/image0.png)
 
-
+<p style="font-size:30px;"> Når du har trykket deg inn på periodebillett vil du få flere valg over hvor lang billetten skal være. I dette tilfelle velger vi å vise med 180 dager billett. </p>
 
 # Hvordan bruke billett
 
